@@ -8,8 +8,8 @@ c.Lang = "in"
 #! c.Until = "2020-04-25"
 c.Limit = 500
 
-# c.Output = "./test.csv"
-# c.Store_csv = True
+c.Output = "./test.csv"
+c.Store_csv = True
 c.Count = True
 
 # Run
